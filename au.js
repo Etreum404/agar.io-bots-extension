@@ -85,7 +85,7 @@ class Client {
         this.authorized = false;
         this.bots = new Array();
         this.addEventListener();
-        this.spawnedBots = 0;
+        this.spawnedBots = 100;
         this.clientX2 = 0;
         this.clientY2 = 0;
         this.clientX = 0;
